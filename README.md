@@ -1,4 +1,4 @@
-# 📊 [Nome do Projeto]: Dashboard de [Tema Principal, ex: Análise Financeira / Vendas] ( Em desenvolvimento )
+# 📊  Dashboard de [Tema Principal, ex: Análise Financeira / Vendas] ( Em desenvolvimento )
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?style=for-the-badge)
