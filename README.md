@@ -69,5 +69,5 @@ Desenvolvimento de medidas analíticas utilizando Data Analysis Expressions (DAX
 ---
 
 ## 📬 Contato
-- [LinkedIn]((https://www.linkedin.com/in/gabrielpires756/))
+- [LinkedIn](https://linkedin.com/in/gabrielpires756/)
 - [E-mail](gabriel.works1@gmail.com)
