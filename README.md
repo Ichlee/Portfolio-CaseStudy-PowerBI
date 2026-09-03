@@ -1,4 +1,4 @@
-# 📊 [Nome do Projeto]: Dashboard de [Tema Principal, ex: Análise Financeira / Vendas]
+# 📊 [Nome do Projeto]: Dashboard de [Tema Principal, ex: Análise Financeira / Vendas] ( Em desenvolvimento )
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?style=for-the-badge)
@@ -68,14 +68,6 @@ Desenvolvimento de medidas analíticas utilizando Data Analysis Expressions (DAX
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```text
-├── assets/
-│   └── dashboard_preview.png    # Captura de tela do painel final
-├── data/
-│   └── dataset_ficticio.csv     # Conjunto de dados para demonstração (sem dados sensíveis)
-├── src/
-│   └── dashboard.pbix           # Arquivo do Power BI (opcional)
-├── LICENSE
-└── README.md                    # Documentação do projeto
+## 📬 Contato
+- [LinkedIn]((https://www.linkedin.com/in/gabrielpires756/))
+- [E-mail](gabriel.works1@gmail.com)
